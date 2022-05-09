@@ -32,6 +32,8 @@
 	</header>
 	<main class="responsive-rigid">
 		<h2>Games</h2>
+		<br>hak
+		<a class="text btn" href="https://github.com/meyerc/">Github</a>
 		<br>
 		<a class="text btn" href="https://meyerchak.github.io/wordle/">Wordle+</a>
 		<br>
